@@ -3,7 +3,7 @@
 title: Yujie Zheng
 
 # summary
-summary: Introduction of Yujie Zheng, Postdoctoral scholar at California Institute of Technology
+summary: Yujie Zheng is currently a Postdoctoral scholar at California Institute of Technology specalizing in developing and applying Interferometric Synthetic Aperture Radar (InSAR) techniques to understand underlying processes of the Earth's surface changes.
 
 # Is this the primary user of the site?
 superuser: true
