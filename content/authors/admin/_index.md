@@ -13,7 +13,7 @@ organizations:
 - name: California Institute of Technology
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on developing and applying new techniques to analyze a combination of geodetic observations – primarily Interferometric Synthetic Aperture Radar (InSAR), to better understanding changes of the Earth’s surface related to natural (e.g., active tectonics and volcanic processes, permafrost thawing/freezing) and anthropogenic processes (e.g., withdrawal of groundwater from aquifers). 
+bio: My research focuses on developing and applying new techniques to analyze a combination of geodetic observations to better understanding changes of the Earth’s surface related to natural and anthropogenic processes. 
 
 # Interests to show in About widget
 interests:
