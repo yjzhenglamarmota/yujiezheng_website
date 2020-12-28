@@ -2,6 +2,9 @@
 # Display name
 title: Yujie Zheng
 
+# summary
+summary: Introduction of Yujie Zheng, Postdoctoral scholar at California Institute of Technology
+
 # Is this the primary user of the site?
 superuser: true
 
