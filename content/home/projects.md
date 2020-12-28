@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Research
+title: 'Research'
 subtitle: ''
 
 content:
@@ -34,7 +34,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 
   # Toggle between the various page layout types.
   #   1 = List
