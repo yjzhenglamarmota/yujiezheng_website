@@ -1,31 +1,22 @@
 ---
-title: "An example journal article"
+title: "Robust and efficient insar deformation time series processing"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+- Howard Zebker
+- Yujie Zheng
+date: "2016-11-03"
+doi: "10.1109/IGARSS.2016.7729827"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS)"
+publication_short: " 2016 IGARSS"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: Interferometric Synthetic Aperture Radar (InSAR) methods provide high resolution maps of surface deformation applicable to many scientific, engineering and management studies. Modern spaceborne satellites provide long sequences of observations that we can reduce to many interferograms, which in turn provide the deformation histories of many points on the surface. Here we show how raw radar data, or partially processed single look complex (SLC) images may be precorrected for imaging geometry so that formation of the hundreds of interferograms from an observation sequence is both reliable and efficient. Our approach is to use motion compensation to precisely coregister the images and a common master orbit to compensate for the topographic phase terms so that simple cross multiplication yields the needed interferograms.
 
 tags:
 - Source Themes
@@ -34,7 +25,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://ieeexplore.ieee.org/abstract/document/7729827
 url_code: ''
 url_dataset: ''
 url_poster: ''
