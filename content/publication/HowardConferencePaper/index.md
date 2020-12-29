@@ -18,8 +18,6 @@ publication_short: " 2016 IGARSS"
 
 abstract: Interferometric Synthetic Aperture Radar (InSAR) methods provide high resolution maps of surface deformation applicable to many scientific, engineering and management studies. Modern spaceborne satellites provide long sequences of observations that we can reduce to many interferograms, which in turn provide the deformation histories of many points on the surface. Here we show how raw radar data, or partially processed single look complex (SLC) images may be precorrected for imaging geometry so that formation of the hundreds of interferograms from an observation sequence is both reliable and efficient. Our approach is to use motion compensation to precisely coregister the images and a common master orbit to compensate for the topographic phase terms so that simple cross multiplication yields the needed interferograms.
 
-tags:
-- Source Themes
 featured: false
 
 # links:
@@ -41,12 +39,6 @@ image:
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
 
 
 ---
