@@ -20,8 +20,6 @@ publication_short: "IEEE TGRS"
 
 abstract: We propose a novel method for quantifying and correcting phase errors in interferometric synthetic aperture radar (InSAR) data associated with signal decorrelation. This proposed method relates the observed phase nonclosure (referred to as the closure phase) of triplet combinations of any three individual SAR scenes to the decorrelative phase signal in individual interferograms (pairs of SAR scenes). A singular value decomposition (SVD) method is applied to solve the minimum-norm least-squares best fitting estimate of the decorrelation phase for any arbitrary collection of SAR images. This decorrelative phase is then removed from individual interferograms; these corrected interferograms can then be used with existing InSAR time-series analysis algorithms. We demonstrate this method on the Advanced Land Observation Satellite Phased Array type L-band Synthetic Aperture Radar (ALOS PALSAR) scenes of a groundwater pumping subsidence feature in the Central Valley of California and briefly discuss potential future applications of this algorithm to study a variety of environmental and surface physical processes that contribute to InSAR signal decorrelation.
 
-tags:
-- Source Themes
 featured: false
 
 # links:
