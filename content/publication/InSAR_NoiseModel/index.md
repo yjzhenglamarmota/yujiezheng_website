@@ -2,6 +2,7 @@
 title: "A New Decorrelation Phase Covariance Model for Noise Reduction in Unwrapped Interferometric Phase Stacks"
 authors:
 - admin
+- Howard Zebker
 date: "2020-10-23"
 doi: "https://doi.org/10.31223/X5C016"
 
