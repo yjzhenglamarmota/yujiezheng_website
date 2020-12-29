@@ -19,8 +19,6 @@ publication_short: "Stanford University"
 
 abstract: 
 
-tags:
-- Source Themes
 featured: false
 
 # links:
