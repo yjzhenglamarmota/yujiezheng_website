@@ -12,7 +12,6 @@ weight: 90
 title: Publications
 subtitle: ''
 
-draft: true
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
