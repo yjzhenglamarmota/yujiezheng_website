@@ -25,8 +25,6 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
 url_pdf:'https://eartharxiv.org/repository/view/1714/'
 #url_code: '#'
 #url_dataset: '#'
