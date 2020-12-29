@@ -1,16 +1,12 @@
 ---
 title: "An example journal article"
 authors:
+- Roger Michaelides
+- Howard Zebker
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2019-08-30T00:00:00Z"
+doi: "10.1109/TGRS.2019.2934362"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +15,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: " IEEE Transactions on Geoscience and Remote Sensing "
+publication_short: "IEEE TGRS"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: We propose a novel method for quantifying and correcting phase errors in interferometric synthetic aperture radar (InSAR) data associated with signal decorrelation. This proposed method relates the observed phase nonclosure (referred to as the closure phase) of triplet combinations of any three individual SAR scenes to the decorrelative phase signal in individual interferograms (pairs of SAR scenes). A singular value decomposition (SVD) method is applied to solve the minimum-norm least-squares best fitting estimate of the decorrelation phase for any arbitrary collection of SAR images. This decorrelative phase is then removed from individual interferograms; these corrected interferograms can then be used with existing InSAR time-series analysis algorithms. We demonstrate this method on the Advanced Land Observation Satellite Phased Array type L-band Synthetic Aperture Radar (ALOS PALSAR) scenes of a groundwater pumping subsidence feature in the Central Valley of California and briefly discuss potential future applications of this algorithm to study a variety of environmental and surface physical processes that contribute to InSAR signal decorrelation.
 
 tags:
 - Source Themes
@@ -34,7 +27,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8821549
 url_code: ''
 url_dataset: ''
 url_poster: ''
