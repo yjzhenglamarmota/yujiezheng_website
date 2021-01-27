@@ -3,8 +3,9 @@ title: "A New Decorrelation Phase Covariance Model for Noise Reduction in Unwrap
 authors:
 - admin
 - Howard Zebker
+- Roger Michaelides
 date: "2020-10-23"
-doi: "https://doi.org/10.31223/X5C016"
+doi: "10.1109/TGRS.2021.3050087"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -13,7 +14,7 @@ doi: "https://doi.org/10.31223/X5C016"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Transactions on Geoscience and Remote Sensing"
@@ -24,7 +25,7 @@ abstract: The accuracy of geophysical parameter estimation made with Interferome
 featured: false
 
 links:
-url_pdf: https://eartharxiv.org/repository/view/1714/
+url_pdf: https://www.researchgate.net/publication/348642399_A_New_Decorrelation_Phase_Covariance_Model_for_Noise_Reduction_in_Unwrapped_Interferometric_Phase_Stacks#fullTextFileContent
 url_code: ''
 url_dataset: ''
 url_poster: ''
