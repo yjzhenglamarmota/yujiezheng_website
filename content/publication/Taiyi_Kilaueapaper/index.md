@@ -5,15 +5,15 @@ authors:
 - admin
 - Fabio Pulvirenti
 - Paul Segall
-date: "2021-01-31T00:00:00Z"
-doi: "10.1002/essoar.10506041.1"
+date: "2021-05-19T00:00:00Z"
+doi: "https://doi.org/10.1029/2021JB021803"
 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Geophysical Research - Solid Earth"
