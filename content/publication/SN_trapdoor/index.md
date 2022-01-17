@@ -4,7 +4,7 @@ title: "Constraints on absolute magma chamber volume from geodetic measurements 
 - Laura Blackstone
 - Paul Segall
 date: "2021-10-11"
-doi: "https://doi.org/10.1002/essoar.10508257.1"
+doi: "10.1002/essoar.10508257.1"
 
 
 # Publication type.
@@ -25,7 +25,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://doi.org/10.1002/essoar.10508257.1'
+url_pdf: https://doi.org/10.1002/essoar.10508257.1
 url_code: ''
 url_dataset: ''
 url_poster: ''

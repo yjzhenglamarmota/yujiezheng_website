@@ -6,7 +6,7 @@ authors:
 - Fabio Pulvirenti
 - Paul Segall
 date: "2021-05-19T00:00:00Z"
-doi: "https://doi.org/10.1029/2021JB021803"
+doi: "10.1029/2021JB021803"
 
 
 # Publication type.
@@ -25,7 +25,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://authors.library.caltech.edu/109243/6/2021JB021803.pdf'
+url_pdf: https://authors.library.caltech.edu/109243/6/2021JB021803.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
