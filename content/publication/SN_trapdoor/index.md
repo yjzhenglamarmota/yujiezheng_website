@@ -1,5 +1,6 @@
 ---
 title: "Constraints on absolute magma chamber volume from geodetic measurements during trapdoor faulting at Sierra Negra volcano, Galapagos"
+authors:
 - admin
 - Laura Blackstone
 - Paul Segall
