@@ -68,4 +68,4 @@ email: "yjzheng@caltech.edu"
 highlight_name: true
 ---
 
-I am a Postdoctoral scholar of in Division of Geological and Planetary Sciences at Caltech. My research focuses on developing and applying new techniques to analyze a combination of geodetic observations – primarily Interferometric Synthetic Aperture Radar (InSAR), to better understanding changes of the Earth’s surface related to natural (e.g., active tectonics and volcanic processes, permafrost thawing/freezing) and anthropogenic processes (e.g., withdrawal of groundwater from aquifers). 
+I am a Postdoctoral scholar in Division of Geological and Planetary Sciences at Caltech. My research focuses on developing and applying new techniques to analyze a combination of geodetic observations – primarily Interferometric Synthetic Aperture Radar (InSAR), to better understanding changes of the Earth’s surface related to natural (e.g., active tectonics and volcanic processes, permafrost thawing/freezing) and anthropogenic processes (e.g., withdrawal of groundwater from aquifers). 

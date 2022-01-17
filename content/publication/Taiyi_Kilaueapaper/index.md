@@ -25,7 +25,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.essoar.org/doi/pdf/10.1002/essoar.10506041.1
+url_pdf: 'https://authors.library.caltech.edu/109243/6/2021JB021803.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -35,7 +35,7 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""

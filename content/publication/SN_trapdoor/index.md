@@ -17,7 +17,7 @@ publication_types: ["3"]
 publication: "Geophysical Research Letters"
 publication_short: "GRL"
 
-abstract: We present a new interferometric synthetic aperture radar processing approach that removes topography–dependent phase from single-look complex (SLC) radar images, making interferogram formation more efficient. We first adopt motion compensation techniques to resample SLC images with respect to an ideal reference orbit and then separate the residual topographic phase contributions into parts dependent only on individual SLC acquisitions, and generate topography-compensated images directly in latitude–longitude coordinates. Since the number of interferograms is typically much larger than the number of SLC images, our approach greatly reduces needed computational resources. Furthermore, we move the need for precise knowledge of imaging geometry upstream from the end user to the data provider. We demonstrate our approach for both preprocessed SLC images and raw data using COSMO-SkyMed L1A and ALOS L0 products. The performance of our method depends on the quality of the digital elevation model (DEM) used—DEM error affects the correction phase proportionally to the baseline between radar scenes and the reference orbital path. With a 1000-m baseline and a nominal 30° incidence angle, we find that the uncertainty of estimated deformation increases by approximately 1 cm with every 3 m increase in the DEM error.
+abstract: The magma chamber volume is critical for volcano hazards assessment and forecasting. Standard geodetic methods cannot constrain the total volume, only the volume change. Here, we show that the deformation response of the magma chamber to trapdoor faulting earthquakes in the Sierra Negra volcano, Galapagos, depends on both the absolute chamber volume and the compressibility of the magma. Bubble-free magma provides the lower limit on compressibility and an upper bound on the chamber volume of 13.6 to 20.6 km3, depending on fault dip. We estimate an upper limit on compressibility using a conduit model relating volatile content to lava fountain height, compared with observations from the 2005 eruption, constrained by volatile content of olivine melt inclusions. This yields a lower bound on chamber volume of half the upper bound. We find that the best fitting trapdoor faults are near vertical and dip steeply to the north (88 degrees).
 
 
 featured: false
@@ -25,7 +25,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.researchgate.net/publication/317147417_Phase_Correction_of_Single-Look_Complex_Radar_Images_for_User-Friendly_Efficient_Interferogram_Formation
+url_pdf: 'https://doi.org/10.1002/essoar.10508257.1'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -36,4 +36,3 @@ url_video: ''
 
 
 ---
-
