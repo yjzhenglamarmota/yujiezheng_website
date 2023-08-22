@@ -3,17 +3,17 @@
 title: Yujie Zheng
 
 # summary
-summary: Yujie Zheng is currently a Postdoctoral scholar at California Institute of Technology specalizing in developing and applying Interferometric Synthetic Aperture Radar (InSAR) techniques to understand underlying processes of the Earth's surface changes.
+summary: Yujie Zheng is currently an assistant professor at UTD specalizing in developing and applying Interferometric Synthetic Aperture Radar (InSAR) techniques to understand underlying processes of the Earth's surface changes.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral scholar 
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: California Institute of Technology
+- name: University of Texas at Dallas
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on developing and applying new techniques to analyze a combination of geodetic observations to better understanding changes of the Earth’s surface related to natural and anthropogenic processes. 
@@ -62,10 +62,10 @@ social:
   link: media/CV_yjzheng_fulllength.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "yjzheng@caltech.edu"
+email: "yujie.zheng@utdallas.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a Postdoctoral scholar in Division of Geological and Planetary Sciences at Caltech. My research focuses on developing and applying new techniques to analyze a combination of geodetic observations – primarily Interferometric Synthetic Aperture Radar (InSAR), to better understanding changes of the Earth’s surface related to natural (e.g., active tectonics and volcanic processes, permafrost thawing/freezing) and anthropogenic processes (e.g., withdrawal of groundwater from aquifers). 
+I am an assitant professor at University of Texas at Dallas. My research focuses on developing and applying new techniques to analyze a combination of geodetic observations – primarily Interferometric Synthetic Aperture Radar (InSAR), to better understanding changes of the Earth’s surface related to natural (e.g., active tectonics and volcanic processes, permafrost thawing/freezing) and anthropogenic processes (e.g., withdrawal of groundwater from aquifers). 
