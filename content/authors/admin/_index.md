@@ -62,7 +62,7 @@ social:
   link: media/CV_yjzheng_fulllength.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "yujie.zheng@utdallas.edu"
+email: yujie.zheng@utdallas.edu
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
