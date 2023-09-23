@@ -88,16 +88,16 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "yjzheng@caltech.edu"
+email = "yujie.zheng@utdallas.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1200 E. California Blvd., MC 252-21, So. Mudd Building, Rm 272", city = "Pasadena", region = "CA", postcode = "91125", country = "United States", country_code = "US"}
+address = {street = "Department of Geoscience, ROC 2.301G, University of Texas at Dallas", city = "Richardson", region = "TX", postcode = "75080", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "34.136124", longitude = "-118.127545"}
+coordinates = {latitude = "32.98644", longitude = "-96.75715"}
 
 # Directions for visitors to locate you.
 directions = ""
