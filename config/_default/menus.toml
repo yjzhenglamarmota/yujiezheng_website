@@ -25,7 +25,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
-[[main]]
-   name = "CV"
-   url = "static/media/CV_yjzheng_fulllength.pdf"
-   weight = 40
+#[[main]]
+#   name = "CV"
+#   url = "static/media/CV_yjzheng_fulllength.pdf"
+#   weight = 40
