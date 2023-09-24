@@ -1,8 +1,8 @@
 ---
 title: InSAR theory and techniques
 summary: Developing algorithms to best use of InSAR data
-tags:
-- InSAR
+# tags:
+# - InSAR
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

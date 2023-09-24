@@ -1,8 +1,8 @@
 ---
-title: InSAR theory and techniques
-summary: Developing algorithms to best use of InSAR data
-tags:
-- InSAR
+title: InSAR theory and algorithms
+summary: Developing algorithms to understand and make the best use of InSAR data
+# tags:
+# - InSAR
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -29,6 +29,9 @@ Recent advances in satellite remote sensing have enabled continued global monito
 
 The central goal of my research is to promote the use of modern geodetic datasets – primarily interferometric synthetic aperture radar (InSAR) measurements to study Earth’s surface changes due to natural and anthropological processes. I am interested in advancing theories and developing algorithms to produce InSAR-based displacement products that have higher resolution, accuracy, and shorter latency.
 
-In the past, my collaboraters and I have worked on developing geocoded SAR InSAR processing algorithm; developing covariance matrix for InSAR decorrelation noise and investigating InSAR closure phase and its impacts on InSAR time-series.
+In the past, my collaboraters and I have worked on 
+(1)developing geocoded SAR InSAR processing algorithm 
+(2)developing covariance matrix for InSAR decorrelation noise
+(3)investigating InSAR closure phase and its impacts on InSAR time-series.
 
 In the future, I am interested in combining statistical models, machine learning methods, and change detection algorithms to facilitate the production of analysis-ready data in a live system. I am particularly excited about InSAR’s ability to measure small signals in noisy environments, an ability that is greatly enhanced with the modern constellation of SAR satellites.
