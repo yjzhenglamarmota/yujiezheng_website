@@ -31,6 +31,14 @@ InSAR has grown to be a reliable tool for those of us diving deep into crustal d
 
 And speaking of the future, I'm  eager to delve into how InSAR can help in diverse earth observation areas. Think about mapping atmospheric water vapor, charting out biomass, tracing groundwater flows, and keeping tabs on permafrost and glaciers, Not to mention its potential in stepping up during emergencies and keeping a watchful eye on our infrastructures. The journey ahead is bound to be exciting.
 
+Related presentations:
+
+1 "Investigating land surface displacements over the San Gabriel Valley, California", AGU 2021
+
+2 "Ups and Downs of Beverly Hills, California", Earthscope 2022
+
+3 "Modeling soil moisture with closure phase bias", Fringe 2023 [talk link: https://www.youtube.com/live/w8rKDBWUS_A?si=vDFP5CWzqf-r6-gG&t=4945]
+
 
 
 

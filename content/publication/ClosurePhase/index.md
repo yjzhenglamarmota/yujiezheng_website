@@ -8,8 +8,7 @@ authors:
 - Paul Rosen
 date: "2022-04-18"
 doi: "10.1109/TGRS.2022.3167648"
-tag:
-- InSAR theory and algorithms
+
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
