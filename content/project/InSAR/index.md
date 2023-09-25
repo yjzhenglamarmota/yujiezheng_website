@@ -12,7 +12,9 @@ image:
   focal_point: Smart
 
 links:
-url_publication: ""
+url_publication: "https://ieeexplore.ieee.org/document/9758802"
+url_publications: "https://ieeexplore.ieee.org/document/9329121"
+url_publications: https://ieeexplore.ieee.org/document/7932834
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,7 +32,7 @@ Isn't it wonderful how technology keeps evolving? Thanks to recent leaps in sate
 
 My research is driven by one main passion: making the most of modern geodetic datasets, especially interferometric synthetic aperture radar (InSAR) measurements, to understand the changes on Earth's surface. I have delved into:
 
-(1) Crafting a geocoded SAR InSAR processing algorithm. 
+(1) Crafting a geocoded SAR InSAR processing algorithm. ()
 
 (2) Developing a covariance matrix tailor-made for InSAR decorrelation noise.
 
