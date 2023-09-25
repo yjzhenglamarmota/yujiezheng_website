@@ -1,8 +1,8 @@
 ---
 title: Tectonic processes
 summary: Understanding earthquake and volcanic processes through the lens of SAR
-# tags:
-# - Deep Learning
+tags:
+- earthquakes and volcanoes
 # date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,8 +30,8 @@ InSAR has been our trusted companion in monitoring surface movements linked to t
 
 Together with my wonderful collaborators, we've delved into:
 
-(1) Cascadia Slow Slip Events - InSAR has proven to be a stellar tool, beautifully complementing GPS measurements.
+(1) Cascadia Slow Slip Events - InSAR has proven to be a stellar tool, beautifully complementing GPS measurements. (Zheng, PhD Thesis, 2019)
 
-(2) Galapagos Sierra Negra - Our study on trapdoor faulting has been pivotal in constraining the absolute chamber volume.
+(2) Galapagos Sierra Negra - Our study on trapdoor faulting has been pivotal in constraining the absolute chamber volume. (Zheng et al., 2022)
 
-(3) Hawaii Kilauea post-2018 Caldera Collapse - A blended approach of InSAR and GPS measurements has been invaluable in uncovering the mysteries of Kilauea's magmatic system.
+(3) Hawaii Kilauea post-2018 Caldera Collapse - A blended approach of InSAR and GPS measurements has been invaluable in uncovering the mysteries of Kilauea's magmatic system. (Wang et al., 2021)

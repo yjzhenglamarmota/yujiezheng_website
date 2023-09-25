@@ -1,8 +1,8 @@
 ---
 title: InSAR theory and algorithms
 summary: Developing algorithms to understand and make the best use of InSAR data
-# tags:
-# - InSAR
+tags:
+- InSAR theory and algorithms
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -13,8 +13,8 @@ image:
 
 links:
 url_publication: "https://ieeexplore.ieee.org/document/9758802"
-url_publications: "https://ieeexplore.ieee.org/document/9329121"
-url_publications: https://ieeexplore.ieee.org/document/7932834
+# url_publications: "https://ieeexplore.ieee.org/document/9329121"
+# url_publications: https://ieeexplore.ieee.org/document/7932834
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -32,11 +32,11 @@ Isn't it wonderful how technology keeps evolving? Thanks to recent leaps in sate
 
 My research is driven by one main passion: making the most of modern geodetic datasets, especially interferometric synthetic aperture radar (InSAR) measurements, to understand the changes on Earth's surface. I have delved into:
 
-(1) Crafting a geocoded SAR InSAR processing algorithm. ()
+(1) Crafting a geocoded SAR InSAR processing algorithm. (Zheng and Zebker, 2017)
 
-(2) Developing a covariance matrix tailor-made for InSAR decorrelation noise.
+(2) Developing a covariance matrix tailor-made for InSAR decorrelation noise. (Zheng and Zebker, 2021)
 
-(3) Exploring the mysteries of InSAR closure phase and its effects on InSAR time-series.
+(3) Exploring the mysteries of InSAR closure phase and its effects on InSAR time-series. (Zheng et al., 2022)
 
 Looking ahead, I'm super excited about mixing and matching statistical models, machine learning techniques, and change detection algorithms. The goal? To streamline the creation of ready-for-analysis data in real-time systems. What especially thrills me is InSAR’s ability for picking out faint signals amidst all the noise, and this capability just got a turbo boost thanks to the latest fleet of SAR satellites.
 
