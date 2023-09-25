@@ -29,13 +29,13 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: 'https://www.researchgate.net/publication/360038134_On_Closure_Phase_and_Systematic_Bias_in_Multi-looked_SAR_Interferometry'
-url_code: ''
+url_code: 'https://github.com/insarlab/MintPy-tutorial/blob/main/applications/closure_phase_bias.ipynb'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://nisar.jpl.nasa.gov/resources/192/closure-phase-bias-signal-or-noise/'
 
 
 ---

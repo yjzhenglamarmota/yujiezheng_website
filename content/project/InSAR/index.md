@@ -12,7 +12,7 @@ image:
   focal_point: Smart
 
 links:
-url_publication: "#publication/ClosurePhase"
+url_publication: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
