@@ -37,7 +37,7 @@ Related presentations:
 
 2 "Ups and Downs of Beverly Hills, California", Earthscope 2022
 
-3 "Modeling soil moisture with closure phase bias", Fringe 2023 [talk link: https://www.youtube.com/live/w8rKDBWUS_A?si=vDFP5CWzqf-r6-gG&t=4945]
+3 "Modeling soil moisture with closure phase bias", Fringe 2023
 
 
 
