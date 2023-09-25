@@ -1,5 +1,5 @@
 ---
-title: Environmental and sustainablity applicaitons
+title: Environmental and sustainability applicaitons
 summary: Monitoring sustainable use of resources with InSAR
 tags:
 - environmental and sustainability applications
