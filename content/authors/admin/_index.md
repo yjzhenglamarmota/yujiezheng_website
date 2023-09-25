@@ -70,7 +70,7 @@ highlight_name: true
 
 I am an assistant professor at University of Texas at Dallas. My research focuses on developing and applying new techniques to analyze a combination of geodetic observations – primarily Interferometric Synthetic Aperture Radar (InSAR), to better understanding changes of the Earth’s surface related to natural (e.g., active tectonics and volcanic processes, permafrost thawing/freezing) and anthropogenic processes (e.g., withdrawal of groundwater from aquifers). 
 
-I am seeking 1 or 2 motivated PhD students to join my research group in Fall 2024. Ever been curious about unlocking the mysteries of our planet using cutting-edge spaceborne geodetic datasets? Our work ranges from diving deep into earthquake cycles and volcanic processes to exploring new frountiers like soil moisture and vegetation growth. If you're interested in developing innovative and scalable algorithms to make sense of the rapidly growing SAR datasets while also dissecting its bias and uncertainties, I'd be interested in speaking with you.  
+I am seeking 1 or 2 motivated PhD students to join my research group in Fall 2024. Ever been curious about unlocking the mysteries of our planet using cutting-edge spaceborne geodetic datasets? Our work ranges from diving deep into earthquake cycles and volcanic processes to exploring new frontiers like soil moisture and vegetation growth. If you're interested in developing innovative and scalable algorithms to make sense of the rapidly growing SAR datasets while also dissecting its bias and uncertainties, I'd be interested in speaking with you.  
 
 For more insights on the graduate program at the Department of Geosciecnes, University of Texas at Dallas, go to https://geosciences.utdallas.edu/graduates/.
 
