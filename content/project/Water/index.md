@@ -1,6 +1,6 @@
 ---
-title: Tectonic processes
-summary: Understanding earthquake and volcanic processes through the lens of SAR
+title: Environmental and sustainablity applicaitons
+summary: Monitoring sustainable use of resources with InSAR
 # tags:
 # - Deep Learning
 # date: "2016-04-27T00:00:00Z"
@@ -26,12 +26,9 @@ url_video: ""
 #  slides: example
 ---
 
-InSAR has been our trusted companion in monitoring surface movements linked to tectonic processes since the landmark 1992 Landers Earthquake. With the support of the latest and upcoming SAR constellations, we're now in a position to detect even the subtlest shifts in Earth's movements. I've always been deeply fascinated by the tectonic dances of our planet.
+InSAR has grown to be a reliable tool for those of us diving deep into crustal deformation studies. But InSAR is not just about measuring target motion. InSAR has this keen sensitivity to changes in things like soil moisture, the lushness of vegetation, and the intricacies of canopy structures. When we truly grasp how SAR measurements respond to these surface dances, it's like unlocking a treasure trove. We can branch out from just crustal studies to a whole world of applications that can give us a hand in tackling some of the big environmental and resource challenges of our time.
 
-Together with my wonderful collaborators, we've delved into:
+And speaking of the future, I'm  eager to delve into how InSAR can help in diverse earth observation areas. Think about mapping atmospheric water vapor, charting out biomass, tracing groundwater flows, and keeping tabs on permafrost and glaciers, Not to mention its potential in stepping up during emergencies and keeping a watchful eye on our infrastructures. The journey ahead is bound to be exciting.
 
-(1) Cascadia Slow Slip Events - InSAR has proven to be a stellar tool, beautifully complementing GPS measurements.
 
-(2) Galapagos Sierra Negra - Our study on trapdoor faulting has been pivotal in constraining the absolute chamber volume.
 
-(3) Hawaii Kilauea post-2018 Caldera Collapse - A blended approach of InSAR and GPS measurements has been invaluable in uncovering the mysteries of Kilauea's magmatic system.
