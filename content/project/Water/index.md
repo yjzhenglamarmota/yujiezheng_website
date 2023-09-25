@@ -9,7 +9,7 @@ tags:
 external_link: ""
 
 image:
-  caption: Eruption cartoon by Icelandic cartoonist @hugleikur
+  caption: Glacier lake in Cuzco, Peru
   focal_point: Smart
 
 links:
