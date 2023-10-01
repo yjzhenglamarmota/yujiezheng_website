@@ -13,7 +13,7 @@ location: Leeds, Uk
 #   country: United States
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: [Alt text](image.png)
+# abstract: [Alt text](image.png)
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2023-09-06"
