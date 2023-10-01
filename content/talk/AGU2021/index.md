@@ -1,10 +1,10 @@
 ---
-title: 
+title: Investigating land surface displacements over the San Gabriel Valley, California
 
-event: Fringe 2023
+event: AGU Fall 2021
 # event_url: https://example.org
 
-location: Leeds, Uk
+location: New Orleans, LA
 # address:
 #   street: 450 Serra Mall
 #   city: Stanford
@@ -12,18 +12,18 @@ location: Leeds, Uk
 #   postcode: '94305'
 #   country: United States
 
-summary: My talk at Fringe 2023 discussing closure phase bias and soil moisture.
+summary: My fall 2021 AGU talk
 # abstract: [Alt text](image.png)
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-09-13"
+date: "2021-12"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 #publishDate: "2017-01-01T00:00:00Z"
 
-authors: [Yujie Zheng, Heresh Fattahi]
+authors: [Yujie Zheng, Mark Simons]
 tags: []
 
 # Is this a featured talk? (true/false)
@@ -40,15 +40,15 @@ links:
 #   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "slides/Fringe_YujieZheng.pptx"
-url_video: "https://www.youtube.com/live/w8rKDBWUS_A?si=vDFP5CWzqf-r6-gG&t=4945"
+url_slides: ""
+url_video: "https://youtu.be/GWvaIgj_pcM?si=5CLuSAYmsI9JxmGa"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: static/slides/Fringe_YujieZheng.pptx
+slides: 
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -57,12 +57,12 @@ slides: static/slides/Fringe_YujieZheng.pptx
 #   Otherwise, set `projects = []`.
 projects:
 - Water
-- InSAR
+
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click on the **Video** button to view the recorded presentation.
-{{% /callout %}}
+{{% /callout %}} -->
 
 <!-- Slides can be added in a few ways:
 
