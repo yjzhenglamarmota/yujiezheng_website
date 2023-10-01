@@ -1,5 +1,5 @@
 ---
-title: Modeling Soil Moisture with Closure Phase Bias
+title: 
 
 event: Fringe 2023
 # event_url: https://example.org

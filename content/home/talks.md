@@ -10,8 +10,8 @@ headless: true
 weight: 70
 
 active: true
-title: 'Recent & Upcoming Talks'
-subtitle:
+title: 'Recorded Talks'
+subtitle: 
 
 content:
   # Page type to display. E.g. post, talk, publication...
