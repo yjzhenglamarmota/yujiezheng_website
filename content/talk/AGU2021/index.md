@@ -16,7 +16,7 @@ summary: My fall 2021 AGU talk
 # abstract: [Alt text](image.png)
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-12"
+date: "2021-12-15"
 #date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
