@@ -13,7 +13,7 @@ location: Leeds, Uk
 #   country: United States
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
-# abstract: 
+abstract: ![Alt text](image.png)
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2023-09-06"
@@ -40,7 +40,7 @@ links:
 #   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "static/slides/Fringe_YujieZheng.pptx"
+url_slides: "slides/Fringe_YujieZheng.pptx"
 url_video: "https://www.youtube.com/live/w8rKDBWUS_A?si=vDFP5CWzqf-r6-gG&t=4945"
 
 # Markdown Slides (optional).
@@ -61,7 +61,7 @@ projects:
 ---
 
 {{% callout note %}}
-Click on the **Video** button above to view the recorded presentation.
+Click on the **Video** button to view the recorded presentation.
 {{% /callout %}}
 
 <!-- Slides can be added in a few ways:
