@@ -47,7 +47,7 @@ url_video: "https://nisar.jpl.nasa.gov/resources/192/closure-phase-bias-signal-o
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: static/slides/Fringe_YujieZheng.pptx
+slides: 
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
