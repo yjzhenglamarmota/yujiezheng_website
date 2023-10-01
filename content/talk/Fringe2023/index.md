@@ -49,7 +49,7 @@ url_video: "https://www.youtube.com/live/w8rKDBWUS_A?si=vDFP5CWzqf-r6-gG&t=4945"
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+slides: 
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
