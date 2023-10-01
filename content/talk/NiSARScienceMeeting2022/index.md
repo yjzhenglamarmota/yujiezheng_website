@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: Stacey Huang'
+  caption: 'A 1/8 scale model of NiSAR'
   focal_point: Right
 
 links:
@@ -47,7 +47,7 @@ url_video: "https://nisar.jpl.nasa.gov/resources/192/closure-phase-bias-signal-o
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 
+# slides: 
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
