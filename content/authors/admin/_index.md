@@ -2,6 +2,10 @@
 # Display name
 title: Yujie Zheng
 
+# full name
+first_name: Yujie
+last_name: Zheng
+
 # summary
 summary: Yujie Zheng is currently an assistant professor at UTD specalizing in developing and applying Interferometric Synthetic Aperture Radar (InSAR) techniques to understand underlying processes of the Earth's surface changes.
 
