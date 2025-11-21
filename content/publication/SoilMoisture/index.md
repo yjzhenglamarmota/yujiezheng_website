@@ -3,7 +3,7 @@ title: "Modeling, Prediction and Retrieval of Surface Soil Moisture from InSAR C
 authors:
 - admin
 - Heresh Fattahi
-date: "2026-01-15"
+date: "2025-01-15"
 doi: "10.1016/j.rse.2025.115104"
 
 
