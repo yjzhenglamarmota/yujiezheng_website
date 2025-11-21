@@ -1,6 +1,5 @@
 ---
-title: "Phase Correction of Single-Look Complex
-Radar Images for User-Friendly Efficient Interferogram Formation."
+title: "Phase Correction of Single-Look Complex Radar Images for User-Friendly Efficient Interferogram Formation."
 authors:
 - admin
 - Howard Zebker
