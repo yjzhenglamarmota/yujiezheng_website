@@ -7,12 +7,12 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 55
 
 active: true
 
-title: 'Research'
-subtitle: ''
+title: 'Research areas'
+subtitle: 'A shared geophysical core connects method development with water resources and solid-Earth science.'
 
 content:
   # Page type to display. E.g. project.

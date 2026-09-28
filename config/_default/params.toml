@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Yujie Zheng is a radar geophysicist at UT Dallas studying groundwater, Earth-surface change, and solid-Earth processes with InSAR, geodesy, and physical models."
 
 ############################
 ## Site Features
@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Geoscience, ROC 2.301G, University of Texas at Dallas", city = "Richardson", region = "TX", postcode = "75080", country = "United States", country_code = "US"}
+address = {street = "Department of Sustainable Earth Systems Sciences, ROC 2.301G, University of Texas at Dallas", city = "Richardson", region = "TX", postcode = "75080", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

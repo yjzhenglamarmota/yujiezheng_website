@@ -1,8 +1,9 @@
 ---
-title: Environmental and sustainability applicaitons
-summary: Monitoring sustainable use of resources with InSAR
+title: Groundwater and coupled water-land systems
+summary: Combining radar, seismic observations, and physical models to measure groundwater storage, recharge, extraction, and redistribution.
+date: "2026-09-28"
 tags:
-- environmental and sustainability applications
+- groundwater and hydrogeodesy
 # date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -26,20 +27,13 @@ url_video: ""
 #  slides: example
 ---
 
-InSAR has grown to be a reliable tool for those of us diving deep into crustal deformation studies. But InSAR is not just about measuring target motion. InSAR has this keen sensitivity to changes in things like soil moisture, the lushness of vegetation, and the intricacies of canopy structures. When we truly grasp how SAR measurements respond to these surface dances, it's like unlocking a treasure trove. We can branch out from just crustal studies to a whole world of applications that can give us a hand in tackling some of the big environmental and resource challenges of our time.
+Groundwater systems record both climatic forcing and human water use. I combine multidecadal InSAR records with seismic observations, pumping data, and groundwater models to resolve how storage changes through drought, recharge, and extraction.
 
+In Greater Los Angeles, nearly three decades of radar observations reveal deformation that sparse monitoring wells do not capture. Work in the Hollywood Basin showed how deformation and production records can constrain sustainable yield and distinguish shallow from deeper aquifer behavior. A NASA-funded project now expands this approach across the region, combining geodetic and seismic measurements to characterize recovery from atmospheric rivers and to test how recharge, hydraulic connectivity, pumping, and irreversible storage loss interact.
 
-And speaking of the future, I'm  eager to delve into how InSAR can help in diverse earth observation areas. Think about mapping atmospheric water vapor, charting out biomass, tracing groundwater flows, and keeping tabs on permafrost and glaciers, Not to mention its potential in stepping up during emergencies and keeping a watchful eye on our infrastructures. The journey ahead is bound to be exciting.
+My group also studies groundwater-dependent agriculture in the High Plains. Because pumping-related compaction can be small there, we focus on irrigation as a direct surface expression of groundwater redistribution and test whether NISAR closure phase can add spatial detail to existing soil-moisture products.
 
-Related presentations:
-
-1 "Investigating land surface displacements over the San Gabriel Valley, California", AGU 2021
-
-2 "Ups and Downs of Beverly Hills, California", Earthscope 2022
-
-3 "Modeling soil moisture with closure phase bias", Fringe 2023
-
-
+An emerging project in the Salar de Atacama examines how lithium-brine extraction and climate variability affect freshwater-brine interactions along the salt-flat margin. The goal is to distinguish pumping effects from climatic variability in a system that supports lagoons, wetlands, wildlife, and local communities.
 
 
 

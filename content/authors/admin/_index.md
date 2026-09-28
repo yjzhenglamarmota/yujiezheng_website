@@ -7,7 +7,7 @@ first_name: Yujie
 last_name: Zheng
 
 # summary
-summary: Yujie Zheng is currently an assistant professor at UTD specalizing in developing and applying Interferometric Synthetic Aperture Radar (InSAR) techniques to understand underlying processes of the Earth's surface changes.
+summary: Yujie Zheng is a radar geophysicist at UT Dallas who develops satellite and geodetic methods to study groundwater, surface change, and solid-Earth processes.
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,14 +20,14 @@ organizations:
 - name: University of Texas at Dallas
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on developing and applying new techniques to analyze a combination of geodetic observations to better understanding changes of the Earth’s surface related to natural and anthropogenic processes. 
+bio: I develop satellite radar and geodetic methods to understand how water, the solid Earth, climate variability, and human activity shape the surface and subsurface.
 
 # Interests to show in About widget
 interests:
-- Geodesy
-- Active Tectonics
-- Hydrology
-- Volcanology
+- Radar geophysics and InSAR
+- Groundwater and hydrogeodesy
+- Tectonics and volcanology
+- Climate-sensitive geohazards
 
 # Education to show in About widget
 education:
@@ -72,6 +72,8 @@ email: yujie.zheng@utdallas.edu
 highlight_name: true
 ---
 
-I am an assistant professor at University of Texas at Dallas. My research focuses on developing and applying new techniques to analyze a combination of geodetic observations – primarily Interferometric Synthetic Aperture Radar (InSAR), to better understanding changes of the Earth’s surface related to natural (e.g., active tectonics and volcanic processes, permafrost thawing/freezing) and anthropogenic processes (e.g., withdrawal of groundwater from aquifers). 
+I am an Assistant Professor in the Department of Sustainable Earth Systems Sciences at The University of Texas at Dallas. I use satellite radar, geodesy, seismic observations, and physical models to study natural and human-driven changes at Earth's surface and in the subsurface.
 
-Our group website can be accessed at https://labs.utdallas.edu/imaging-radar-lab/.
+My research began in solid-Earth geophysics and now centers increasingly on groundwater and coupled hydrosphere-geosphere systems. Current projects examine groundwater recharge and sustainable yield in Greater Los Angeles, irrigation and soil moisture in the High Plains, slow slip in Cascadia, and the effects of resource extraction in water-limited environments. Across these applications, I develop radar observables and combine complementary measurements to constrain processes that cannot be observed directly.
+
+I lead the [UTD Imaging Radar Laboratory](https://labs.utdallas.edu/imaging-radar-lab/), where our group works across geophysics, remote sensing, hydrology, and data science.

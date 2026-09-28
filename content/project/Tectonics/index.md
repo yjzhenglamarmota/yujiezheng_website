@@ -1,6 +1,7 @@
 ---
-title: Tectonic processes
-summary: Understanding earthquake and volcanic processes through the lens of SAR
+title: Solid Earth processes
+summary: I use geophysical observations and crustal deformation models to investigate the mechanics of volcanic and tectonic systems, including how magma-reservoir properties and faulting govern volcanic deformation and how transient slip is spatially distributed along active plate boundaries.
+date: "2026-09-28"
 tags:
 - earthquakes and volcanoes
 # date: "2016-04-27T00:00:00Z"
@@ -26,12 +27,12 @@ url_video: ""
 #  slides: example
 ---
 
-InSAR has been our trusted companion in monitoring surface movements linked to tectonic processes since the landmark 1992 Landers Earthquake. With the support of the latest and upcoming SAR constellations, we're now in a position to detect even the subtlest shifts in Earth's movements. I've always been deeply fascinated by the tectonic dances of our planet.
+The first foundation of my research program is the study of tectonic and volcanic processes using geodesy and physical modeling. I integrate InSAR with other relevant observations including GNSS, seismic tremor, and geological constraints and use forward models and inverse theory to estimate key physical parameters, quantify their uncertainties, and test competing hypotheses about subsurface processes.
 
 Together with my wonderful collaborators, we've delved into:
 
 (1) Cascadia Slow Slip Events - InSAR has proven to be a stellar tool, beautifully complementing GPS measurements. (Zheng, PhD Thesis, 2019)
 
-(2) Galapagos Sierra Negra - Our study on trapdoor faulting has been pivotal in constraining the absolute chamber volume. (Zheng et al., 2022)
+(2) Galapagos Sierra Negra - My work on Sierra Negra volcano in the Galápagos examined the mechanical interaction between its shallow magma reservoir and the trapdoor fault system within the caldera.  (Zheng et al., 2022)
 
 (3) Hawaii Kilauea post-2018 Caldera Collapse - A blended approach of InSAR and GPS measurements has been invaluable in uncovering the mysteries of Kilauea's magmatic system. (Wang et al., 2021)

@@ -1,6 +1,7 @@
 ---
-title: InSAR theory and algorithms
-summary: Developing algorithms to understand and make the best use of InSAR data
+title: Radar geophysics and new observables
+summary: Developing SAR and InSAR theory that turns complex radar signals into reliable measurements of deformation and near-surface change.
+date: "2026-09-28"
 tags:
 - InSAR theory and algorithms
 
@@ -28,17 +29,11 @@ url_video: ""
 #slides: example
 ---
 
-Isn't it wonderful how technology keeps evolving? Thanks to recent leaps in satellite remote sensing, we're now able to monitor our ever-changing Earth in greater detail and at a pace we'd never imagined possible. However, this comes with its own challenges. As the flood of data keeps growing, figuring out the best ways to use it to address the world's pressing environmental and resource concerns has become a primary challenge in earth science research.
+Satellite radar now provides frequent, global observations of Earth's surface. My work develops the theory and algorithms needed to interpret those measurements reliably, especially where changing soil moisture, vegetation, or surface structure complicates conventional interferometry.
 
-My research is driven by one main passion: making the most of modern geodetic datasets, especially interferometric synthetic aperture radar (InSAR) measurements, to understand the changes on Earth's surface. I have delved into:
+I have developed a geocoded SAR processing approach, a physics-based covariance model for decorrelation noise, and methods that connect closure phase to systematic bias in InSAR time series. This work helps determine when additional interferograms improve precision, how network design affects inferred deformation, and when an apparent error contains information about a changing surface.
 
-(1) Crafting a geocoded SAR InSAR processing algorithm. (Zheng and Zebker, 2017)
+My recent research treats closure phase as a geophysical observable. A multilayer scattering model and retrieval method developed with Heresh Fattahi links closure phase to surface soil-moisture variability, with demonstrations in the Mojave Desert and California's Central Valley. Current work uses multi-frequency NISAR observations to test how radar can improve soil-moisture and irrigation monitoring in the High Plains.
 
-(2) Developing a covariance matrix tailor-made for InSAR decorrelation noise. (Zheng and Zebker, 2021)
-
-(3) Exploring the mysteries of InSAR closure phase and its effects on InSAR time-series. (Zheng et al., 2022)
-
-Looking ahead, I'm super excited about mixing and matching statistical models, machine learning techniques, and change detection algorithms. The goal? To streamline the creation of ready-for-analysis data in real-time systems. What especially thrills me is InSAR’s ability for picking out faint signals amidst all the noise, and this capability just got a turbo boost thanks to the latest fleet of SAR satellites.
-
-
+Future work will extend these methods to vegetated and mountainous environments, where temporal decorrelation and atmospheric variability remain major obstacles to measuring hydrologic change and climate-sensitive hazards.
 
