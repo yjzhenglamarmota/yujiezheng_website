@@ -12,7 +12,7 @@ weight: 55
 active: true
 
 title: 'Research areas'
-subtitle: 'A shared geophysical core connects method development with water resources and solid-Earth science.'
+subtitle: ''
 
 content:
   # Page type to display. E.g. project.
