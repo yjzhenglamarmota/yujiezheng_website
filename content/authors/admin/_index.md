@@ -63,7 +63,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/CV_yjzheng_fulllength.pdf
+  link: media/YujieZheng_CV_public.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: yujie.zheng@utdallas.edu
